@@ -4,6 +4,8 @@ A simple component to add a gmail-style notification to an ember app.
 
 Read more about it in this [blog post](http://emadibrahim.com/2015/02/12/gmail-style-notifications-in-ember/)
 
+Here is a [demo](https://ember-notification.firebaseapp.com/)
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
